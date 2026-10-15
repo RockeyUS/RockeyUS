@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @RockeyUS
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning cs50 computer basics
 - 📫 How to reach me fadi4study@gmail.com
 
 <!---
